@@ -90,4 +90,9 @@
 
 ### Maais informações 🌎:
 
-- 💼 Conexões e compartilhamento de informações no <a href="www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças">É só mandar mensagem lá no LinkedIn</a>.
+- 💼 Conexões e compartilhamento de informações no <a href="www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças"> <img
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      alt="Logo Linkedin"
+      width="12"
+      height="12"
+    /> Linkedin</a>.
