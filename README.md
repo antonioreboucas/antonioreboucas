@@ -12,17 +12,19 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="123"
+      height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioreboucas&theme=radical&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas"
     />
   </a>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="123"
-      src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&theme=radical&count_private=true&show_icons=true&custom_title=Status%20do%20Github&hide=issues,prs"
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&custom_title=Status%20do%20Github"
     />
   </a>
+ 
 </p>
 
 ## Opá, chega ai! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
