@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card.svg" />
+    <img align="center" width="290" src="card_bar.svg" />
   </a>
 </p>
 <p align="center">
@@ -29,44 +29,26 @@
 
 ### Resumo
 
-- 💻 Trabalha atualmente como Businnes Intelligence Analytics (Junior) na **Sou Energy**.
-- 📚 Cursa **Ciência da Computação**.
+- 💻 Trabalho atualmente como Businnes Intelligence Analytics (Junior) na **Sou Energy**.
+- 📍  Moro Atualmente em Fortaleza - CE
 - 📚 Cursa **Análise e Desenvolvimento de Sistemas**.
 - 💙 Interesses: Basquete, Inovação e Series de Ficção Cientifica.
 
-### Linguagens e Ferramentas
+### Linguagens e Ferramentas com Conhecimento
 
 <br/>
 
 <p align="left">
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+  <a href="https://www.java.com/pt-BR/" target="_blank" title="Android Studio">
     <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-      alt="javascript"
-      width="40"
+      src="https://1.bp.blogspot.com/-bik6AotfT0M/X4R87hMVaqI/AAAAAAAAPws/JmmIww-SNscuR1MeW4_4wlrRT1SGXbNyQCLcBGAsYHQ/s0/AndroidStudio_logo.png"
+      alt="java para android"
+      width="50"
       height="40"
     />
   </a>
-  <a href="https://vuejs.org" target="_blank">
-    <img
-      src="https://camo.githubusercontent.com/728ce9f78c3139e76fa69925ad7cc502e32795d2/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
+  
+  <a href="https://www.mysql.com" target="_blank" title="MySql">
     <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
       alt="MySQL"
@@ -74,23 +56,8 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank">
-    <img
-      src="https://i.pinimg.com/originals/12/3d/27/123d277636783ba450261641cd5d9b92.png"
-      alt="apache kafka"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank">
+
+  <a href="https://www.java.com/pt-BR/" target="_blank" title="Java">
     <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
       alt="java"
@@ -98,32 +65,18 @@
       height="40"
     />
   </a>
-  <a href="https://www.opengl.org/" target="_blank">
+    <a href="https://www.java.com/pt-BR/" target="_blank" title="Java">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg"
-      alt="OpenGL"
-      width="40"
+      src="https://www.cetax.com.br/blog/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg"
+      alt="Power B.I"
+      width="100"
       height="40"
     />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net/manual/pt_BR/" target="_blank">
-    <img
-      src="https://www.fortinet.com/content/dam/fortinet-blog/new-images/uploads/analysis-of-php-s-cve-2016-6289-and-cve-2016-6297-2911.png"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+  
+  
 </p>
 
-### Me encontre pela web 🌎:
+### Maais informações 🌎:
 
-- 💼 Conexões e compartilhamento de informações no <a href="">LinkedIn</a>.
+- 💼 Conexões e compartilhamento de informações no <a href="www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças">LinkedIn</a>.
