@@ -32,7 +32,7 @@
 - 💻 Trabalho atualmente como Businnes Intelligence Analytics (Junior) na **Sou Energy**.
 - 📍  Moro Atualmente em Fortaleza - CE
 - 📚 Curso **Análise e Desenvolvimento de Sistemas**.
-- 💡 Em horários livres eu aproveito para melhorar o conhecimento, fazendo alguns frela na area de UI Desing, Indicadores de desempenho de B.I...
+- 💡 Em horários livres eu aproveito para melhorar o conhecimento, fazendo alguns freela na area de UI Desing, Indicadores de desempenho de B.I...
 - 💙 Interesses: Basquete, Inovação e Series de Ficção Cientifica.
 
 ### Linguagens e Ferramentas com Conhecimento
@@ -80,4 +80,4 @@
 
 ### Maais informações 🌎:
 
-- 💼 Conexões e compartilhamento de informações no <a href="www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças">LinkedIn</a>.
+- 💼 Conexões e compartilhamento de informações no <a href="www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças">É só mandar mensagem lá no LinkedIn</a>.
