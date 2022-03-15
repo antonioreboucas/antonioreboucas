@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="280" src="card.svg" />
+    <img align="center" width="290" src="card.svg" />
   </a>
 </p>
 
