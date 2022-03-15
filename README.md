@@ -90,7 +90,7 @@
 
 ### Maais informações 🌎:
 
-- 💼 Conexões e compartilhamento de informações no <a href="www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças"> <img
+- 💼 Conexões e compartilhamento de informações no <a href="https://www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças"> <img
       src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
       alt="Logo Linkedin"
       width="12"
