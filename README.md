@@ -25,13 +25,14 @@
   </a>
 </p>
 
-## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Opá, chega ai! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### Resumo
+### Então, deixa eu me apresentar
 
 - 💻 Trabalho atualmente como Businnes Intelligence Analytics (Junior) na **Sou Energy**.
 - 📍  Moro Atualmente em Fortaleza - CE
-- 📚 Cursa **Análise e Desenvolvimento de Sistemas**.
+- 📚 Curso **Análise e Desenvolvimento de Sistemas**.
+- 💡 Em horários livres eu aproveito para melhorar o conhecimento, fazendo alguns frela na area de UI Desing, Indicadores de desempenho de B.I...
 - 💙 Interesses: Basquete, Inovação e Series de Ficção Cientifica.
 
 ### Linguagens e Ferramentas com Conhecimento
