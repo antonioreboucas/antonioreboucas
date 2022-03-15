@@ -76,8 +76,6 @@
       height="40"
     />
   </a>
-  
-  
 </p>
 
 ### Maais informações 🌎:
