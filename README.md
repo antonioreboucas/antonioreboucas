@@ -31,7 +31,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="140"
+      height="120"
       src="https://github-readme-stats.vercel.app/api/pin/?username=antonioreboucas&repo=powerbi-rh&theme=radical&custom_title=Status%20do%20Github"
     />
   </a>
