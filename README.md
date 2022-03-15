@@ -9,8 +9,6 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -38,7 +36,8 @@
     />
   </a>
 </p>
-## Opá, chega ai! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+### Opá, chega ai! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Então, deixa eu me apresentar
 
