@@ -38,7 +38,6 @@
     />
   </a>
 </p>
-
 ## Opá, chega ai! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Então, deixa eu me apresentar
