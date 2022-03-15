@@ -12,7 +12,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="150"
+      height="140"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioreboucas&theme=radical&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas"
     />
   </a>
@@ -20,7 +20,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="150"
+      height="140"
       src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&custom_title=Status%20do%20Github"
     />
   </a>
