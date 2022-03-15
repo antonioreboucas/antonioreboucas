@@ -8,6 +8,9 @@
     <img align="center" width="290" src="card_bar.svg" />
   </a>
 </p>
+
+
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
@@ -24,7 +27,16 @@
       src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&custom_title=Status%20do%20Github"
     />
   </a>
- 
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="140"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=antonioreboucas&repo=powerbi-rh&theme=radical&custom_title=Status%20do%20Github"
+    />
+  </a>
 </p>
 
 ## Opá, chega ai! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
