@@ -82,7 +82,7 @@
     <img
       src="https://www.cetax.com.br/blog/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg"
       alt="Power B.I"
-      width="100"
+      width="120"
       height="40"
     />
   </a>
