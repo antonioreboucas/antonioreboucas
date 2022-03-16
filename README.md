@@ -96,3 +96,10 @@
       width="12"
       height="12"
     /> Linkedin</a>.
+
+- 💼 WhatsApp <a href="https://www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças"> <img
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      alt="Logo WhatsApp"
+      width="12"
+      height="12"
+    /> Linkedin</a>.
