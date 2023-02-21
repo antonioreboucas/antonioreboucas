@@ -79,7 +79,15 @@
       height="40"
     />
   </a>
-    <a href="https://www.java.com/pt-BR/" target="_blank" title="Java">
+  <a href="https://www.java.com/pt-BR/" target="_blank" title="Pentaho">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFOUXrUCxW-1l9vsybJO2TSz_b00lbnWgeSPW-b3xFCvb7JklWUqLbHPccwL2qZRJJ-4&usqp=CAU"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://www.java.com/pt-BR/" target="_blank" title="Power B.I">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"
       alt="Power B.I"
@@ -94,13 +102,6 @@
 - 💼 Conexões e compartilhamento de informações no <a href="https://www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças"> <img
       src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
       alt="Logo Linkedin"
-      width="12"
-      height="12"
-    /> Linkedin</a>.
-
-- 💼 WhatsApp <a href="https://www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças"> <img
-      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-      alt="Logo WhatsApp"
       width="12"
       height="12"
     /> Linkedin</a>.
