@@ -79,6 +79,15 @@
       height="40"
     />
   </a>
+ 
+  <a href="https://www.mysql.com" target="_blank" title="Postgres Sql">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
+      alt="Postgres SQL"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.java.com/pt-BR/" target="_blank" title="Pentaho">
     <img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFOUXrUCxW-1l9vsybJO2TSz_b00lbnWgeSPW-b3xFCvb7JklWUqLbHPccwL2qZRJJ-4&usqp=CAU"
