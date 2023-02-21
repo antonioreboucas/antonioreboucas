@@ -43,7 +43,7 @@
 
 - 💻 Trabalho atualmente como Businnes Intelligence Analytics (Junior) na **Sou Energy**.
 - 📍  Moro Atualmente em Fortaleza - CE
-- 📚 Superior em **Análise e Desenvolvimento de Sistemas**.
+- 📚 Curso **Análise e Desenvolvimento de Sistemas**.
 - 📚 Pós Graduação **Engenharia de Dados**.
 - 💡 Em horários livres eu aproveito para melhorar o conhecimento, fazendo alguns freela na area de UI Desing, Indicadores de desempenho de B.I...
 - 💙 Interesses: Basquete, Inovação e Series de Ficção Cientifica.
@@ -81,7 +81,7 @@
   </a>
     <a href="https://www.java.com/pt-BR/" target="_blank" title="Java">
     <img
-      src="https://www.cetax.com.br/blog/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"
       alt="Power B.I"
       width="120"
       height="40"
