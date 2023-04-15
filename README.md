@@ -1,11 +1,11 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card.svg" />
+    <img align="center" width="290" src="card_1.svg" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card_bar.svg" />
+    <img align="center" width="290" src="card_bar_1.svg" />
   </a>
 </p>
 
@@ -52,8 +52,6 @@
 
 ### Linguagens e Ferramentas com Conhecimento
 
-
-TESTE
 <br/>
 
 <p align="left">
