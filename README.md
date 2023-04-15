@@ -22,7 +22,7 @@
     <img
       align="center"
       height="140"
-      src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&custom_title=Status%20do%20Github"
+      src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&layout=compact&custom_title=Status%20do%20Github"
     />
   </a>
   
