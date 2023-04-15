@@ -25,15 +25,7 @@
       src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&layout=compact&&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github"
     />
   </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  
-      height="140"
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radica&include_all_commits=true&count_private=true"
-    />
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioreboucas&layout=compact&langs_count=16&theme=synthwave"/>
-  </a>
+
   
 </p>
 
