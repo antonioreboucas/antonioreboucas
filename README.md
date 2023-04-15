@@ -108,6 +108,8 @@
   </a>
 </p>
 
+![Snake animation](https://github.com/antonioreboucas/antonioreboucas/blob/output/github-contribution-grid-snake.svg) 
+
 ### Maais informações 🌎:
 
 - 💼 Conexões e compartilhamento de informações no <a href="https://www.linkedin.com/in/antonio-reboucass" target="_blank" title="Linkdin: Antônio Rebouças"> <img
