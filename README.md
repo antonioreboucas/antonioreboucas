@@ -1,33 +1,33 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card.svg" />
+    <img align="center" width="auto" src="card.svg" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card_bar.svg" />
+    <img align="center" width="auto" src="card_bar.svg" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
+      style="margin-left:7px"
       align="center"
-      height="140"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioreboucas&theme=radical&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas"
-    />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="140"
+      height="175px"
       src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&layout=compact&&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github"
     />
   </a>
 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      style="margin-right:7px"
+      align="center"
+      height="175px"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioreboucas&theme=radical&layout=compact&custom_title=Linguagens%20Mais%20Utilizadas"
+    />
+  </a>
 
-  
 </p>
 
 <p align="left">
