@@ -1,11 +1,11 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card_1.svg" />
+    <img align="center" width="290" src="card.svg" />
   </a>
 </p>
 <p align="center">
   <a href="#">
-    <img align="center" width="290" src="card_bar_1.svg" />
+    <img align="center" width="290" src="card_bar.svg" />
   </a>
 </p>
 
@@ -25,6 +25,7 @@
       src="https://github-readme-stats.vercel.app/api?username=antonioreboucas&show_icons=true&theme=radical&layout=compact&&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github"
     />
   </a>
+
 
   
 </p>
