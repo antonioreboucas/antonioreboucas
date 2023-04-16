@@ -60,6 +60,8 @@
     <img
       src="gitactions.svg"
       alt="Automação com GitActions"
+      width="50"
+      height="40"
     />
   </a>
   
@@ -67,6 +69,8 @@
     <img
       src="powerbi.svg"
       alt="Ferramenta Power B.I Desktop e Serviço"
+      width="50"
+      height="40"
     />
   </a>
 
@@ -74,7 +78,8 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
       alt="Postgres SQL"
-
+      width="40"
+      height="40"
     />
   </a>
 
@@ -82,7 +87,8 @@
     <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
       alt="MySQL"
-
+      width="40"
+      height="40"
     />
   </a>
 
@@ -90,7 +96,8 @@
     <img
       src="pentaho.svg"
       alt="Ferramenta Pentaho Data Integration"
-
+      width="50"
+      height="40"
     />
   </a>
 
@@ -98,7 +105,8 @@
     <img
       src="android.svg"
       alt="Java e Kotlin para android"
-
+      width="50"
+      height="40"
     />
   </a>
 
@@ -106,7 +114,8 @@
     <img
       src="figma.svg"
       alt="Ferramenta de Prototipação Figma"
-
+      width="50"
+      height="40"
     />
   </a>
 
@@ -114,6 +123,8 @@
     <img
       src="html-css-js.svg"
       alt="HTML-5 CSS3 JS"
+      width="50"
+      height="40"
     />
   </a>
 
@@ -121,6 +132,8 @@
     <img
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
       alt="java"
+      width="40"
+      height="40"
     />
   </a>
 </p>
